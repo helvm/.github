@@ -10,25 +10,4 @@
 6. **🚀 ✈️ [HelPS](http://helvm.org/helps)** - Haskellish Esoteric Lifted Poly Scripter
 7. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
 
-<!-- 1. 🚒 🍳 🧑‍🚒 🧑‍🍳 -->
-<!-- 4. 🎓 🏫 🧑‍🎓 🧑‍🏫 -->
-
-## For Users
-* [INSTALL](users/INSTALL.md) - How to download and run
-* [AUTHORS](users/AUTHORS.md) - List of authors
-* [THANKS](users/THANKS.md) - Thanks for inspiration
-* [TODO](users/TODO.md) - Features and to do for all projects
-* [NEWS](users/NEWS.md) - New features
-* [FAQ](users/FAQ.md) - Frequently Asked Questions & Frequently Given Answers
-
-## For Developers
-* [BUGS](developers/BUGS.md) - Know bugs to fix
-* [ROADMAP](developers/ROADMAP.md) - Long versions of [TODO](users/TODO.md)
-* [CHANGELOG](developers/CHANGELOG.md) - Long versions of [NEWS](users/NEWS.md)
-* [ARCHITECTURE](developers/ARCHITECTURE.md) - List of libraries
-* [CONTRIBUTING](developers/CONTRIBUTING.md)
-* [CODE OF CONDUCT](developers/CODE_OF_CONDUCT.md)
-
-<!-- https://en.wikipedia.org/wiki/README -->
-
 # 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
