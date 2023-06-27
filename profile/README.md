@@ -1,6 +1,6 @@
 # ☀️ **HelVM** - Haskellish Esoteric Language VM implemented in Haskell
 
-☀️ **HelVM** (pronunciation `helium`) is has seven part:
+☀️ **[HelVM](https://github.com/helvm/helvm.github.io)** (pronunciation `helium`) is has seven part:
 
 1. **🚒 🍳 [HelIO](https://github.com/helvm/helio)** - Haskellish Esoteric Library Input Output
 2. **🔧 🎨 [HelMA](https://github.com/helvm/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
