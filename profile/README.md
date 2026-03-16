@@ -2,13 +2,13 @@
 
 ☀️ **[HelVM](https://github.com/helvm/helvm.github.io)** (pronunciation `helium`) is has seven part:
 
-1. **🔬 ⚕️ [HelMS](https://github.com/helvm/helms)** - Haskellish Esoteric Live Meta Schemer (or Helm Schemer)
-2. **🚀 ✈️ [HelPS](https://github.com/helvm/helps)** - Haskellish Esoteric Lifted Poly Scripter (or Help Scripter)
-3. **🎓 🏫 [HelTC](https://github.com/helvm/heltc)** - Haskellish Esoteric Lambda True Calculator
+1. **🚒 🍳 [HelIO](https://github.com/helvm/helio)** - Haskellish Esoteric Library Input Output
+2. **🔧 🎨 [HelMA](https://github.com/helvm/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
+3. **🏭 🌾 [HelPA](https://github.com/helvm/helpa)** - Haskellish Esoteric Lightweight Pseudo Assembler (or Help Assembler).  HelPA is Assembler for ETA, SubLeq and WhiteSpace.
 4. **💼 💻 [HelCT](https://github.com/helvm/helct)** (pronunciation `helicity`) - Haskellish Esoteric Legacy C Transpiler (🫖 Little Celestial Teapot)
-5. **🏭 🌾 [HelPA](https://github.com/helvm/helpa)** - Haskellish Esoteric Lightweight Pseudo Assembler (or Help Assembler).  HelPA is Assembler for ETA, SubLeq and WhiteSpace.
-6. **🔧 🎨 [HelMA](https://github.com/helvm/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
-7. **🚒 🍳 [HelIO](https://github.com/helvm/helio)** - Haskellish Esoteric Library Input Output
+5. **🎓 🏫 [HelTC](https://github.com/helvm/heltc)** - Haskellish Esoteric Lambda True Calculator
+6. **🚀 ✈️ [HelPS](https://github.com/helvm/helps)** - Haskellish Esoteric Lifted Poly Scripter (or Help Scripter)
+7. **🔬 ⚕️ [HelMS](https://github.com/helvm/helms)** - Haskellish Esoteric Live Meta Schemer (or Helm Schemer)
 
 # 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
 
